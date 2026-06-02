@@ -1,5 +1,6 @@
-# مشروع صفحة أسعار بسيطة (Pricing Page Project)
-
+# مشروع صفحة أسعار بسيطة(Pricing Page Project)
+## image project
+![image here](https://harmash.com/tutorials/css/templates/1fcc1ef6-d763-4293-923e-c1e915785b58_pricing-template.png)
 هذا المشروع عبارة عن صفحة ويب بسيطة ومستجيبة (Responsive) مخصصة لعرض خطط الأسعار، تم بناؤها باستخدام لغات الويب الأساسية.
 
 ## 🚀 نظرة عامة
